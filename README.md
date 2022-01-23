@@ -1,1 +1,1 @@
-# fsg-territory-tracker
+# territory-tracker
